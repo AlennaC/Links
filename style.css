@@ -1,0 +1,12 @@
+.pet-info {
+    font-family:Georgia, 'Times New Roman', Times, serif
+}
+
+img {
+    max-width: 1fr;
+    max-height: 500px;
+}
+
+.h4 {
+    font-weight: normal;
+}
